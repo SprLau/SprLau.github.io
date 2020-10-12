@@ -12,7 +12,7 @@ github_repo: "https://github.com/SprLau/SprLau.github.io" #code repository | 代
 
 # Sidebar settings | 侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "awesome but not so fucking awesome."
+sidebar-about-description: "awesome."
 sidebar-avatar: /img/head.jpg      # 头像
 
 
