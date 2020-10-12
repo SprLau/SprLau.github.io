@@ -26,13 +26,6 @@
                     <li>
                         <a href="https://www.instagram.com/springslau/"  target="_blank">My INSTAGRAM</a>
                     </li>
-                    {% for page in site.pages %}
-                        {% if page.title %}
-                            <li>
-                                <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                            </li>
-                        {% endif %}
-                    {% endfor %}
                 </ul>
             </div>
         </div>
