@@ -34,17 +34,17 @@ We need to add these two documents.
 
 ![](http://bolg-images.oss-cn-shenzhen.aliyuncs.com/18-10-6/40879620.jpg)
 
-## Modify CNAME Document
+## Modifying CNAME Document
 
 Lastly, modify the CNAME file under our lib to our own content.
 
 ![](http://bolg-images.oss-cn-shenzhen.aliyuncs.com/18-10-6/94742514.jpg)
 
-## BINGO
+## BINGO!!!
 
 Now, type in, and access.
 
-## Additional Attention
+## *Additional Attention*
 
 如果一开始你的博客没有用域名， 并且你添加了 Gittalk 评论， 那么你就需要修改一开始你添加 Gitalk 创建的 OAuth APPS了
 If at the very beginning you enable Gittalk but haven't yet attach your blog to a domain name, then you should consider revising OAuth APPS.
