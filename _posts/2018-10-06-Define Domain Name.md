@@ -46,7 +46,6 @@ Now, type in, and access.
 
 ## *Additional Attention*
 
-如果一开始你的博客没有用域名， 并且你添加了 Gittalk 评论， 那么你就需要修改一开始你添加 Gitalk 创建的 OAuth APPS了
 If at the very beginning you enable Gittalk but haven't yet attach your blog to a domain name, then you should consider revising OAuth APPS.
 
 ![](http://bolg-images.oss-cn-shenzhen.aliyuncs.com/18-10-7/54240172.jpg)
