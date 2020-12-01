@@ -16,6 +16,8 @@ This is a handy tool to disassemble 32-bit hexadecimal raw code into MIPS instru
 So far, 10 instructions are supported: **addu, subu, or, ori, jal, jr, beq, lui, lw, sw**.<br>
 More instructions will be added as the BUAA Computer Organiazation Courses pushing forward, but before that, if you are willing to devote your leisure time to help this disassembly tool get better, I will be extremely pleased. Both the source code and the application are open to download and use.<br>
 
+\* Special Notice: All the numbers appearing in the outcome MIPS codes are in decimal form. \*
+
 *P.S. All Kinds of Optimization Are Welcomed, Feel Free to Contact Me @ My E-Mail: lau@buaa.edu.cn*
 
 ## Downloading & Code Source
