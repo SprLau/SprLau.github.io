@@ -20,6 +20,6 @@ More instructions will be added as the BUAA Computer Organiazation Courses pushi
 
 ## Downloading & Code Source
 
-[*Disassemble_MIPS_32bits.exe*](https://bhpan.buaa.edu.cn/#/link/8A7618AEC12093EB1FF60C0EC04C55DF)* developed by Springs Lau*<br>
+[*Disassemble_MIPS_32bits.exe*](https://bhpan.buaa.edu.cn/#/link/8A7618AEC12093EB1FF60C0EC04C55DF) *developed by Springs Lau*<br>
 Check the Source Code at [*Here*](https://paste.ubuntu.com/p/qJ7FrZDpw7/)!<br>
 Expiration: 2021-12-31 23:59
