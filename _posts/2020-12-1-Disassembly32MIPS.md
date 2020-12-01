@@ -2,9 +2,9 @@
 layout:     post
 title:      Disassembly: 32-bit MIPS
 subtitle:   Powered by C Programming Language
-date:       2020-12-1
+date:       2020-12-01
 author:     Springs Lau
-header-img: img/home-bg-o.jpg
+header-img: img/post-web.jpg
 catalog: true
 tags:
     - Blog
