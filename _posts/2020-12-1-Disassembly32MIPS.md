@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Disassembly: 32-bit Hexadecimal Codes -> MIPS Instructions
+title:      Disassembly: 32-bit MIPS
 subtitle:   Powered by C Programming Language
 date:       2020-12-1
 author:     Springs Lau
@@ -21,5 +21,5 @@ More instructions will be added as the BUAA Computer Organiazation Courses pushi
 ## SprLau C Lib。
 
 [*Disassemble_MIPS_32bits.exe*](https://bhpan.buaa.edu.cn:443/link/8A7618AEC12093EB1FF60C0EC04C55DF)<br>
-Source Code at [*HERE*](https://paste.ubuntu.com/p/qJ7FrZDpw7/)<br>
+Check the Source Code at [*HERE*](https://paste.ubuntu.com/p/qJ7FrZDpw7/)<br>!
 Expiration: 2021-12-31 23:59
