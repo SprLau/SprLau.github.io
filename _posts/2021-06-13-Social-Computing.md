@@ -10,7 +10,6 @@ tags:
     - Blog
 ---
 
-
 ### Chapter 2
 
 > Pivotal Node
@@ -57,6 +56,10 @@ People on the left, foci on the right.
 
 For every set of three nodes, if we consider the three edges connecting them, either all three of these edges are labeled + (positive, friendly, etc.), or else exactly one of them is labeled + (negative, hostile, enemy, etc.).
 
+**Strong: **Exactly all the triadic relations conform either “+, +, +” or “+, -, -”.
+
+**Weak: **Combination of “+, +, -” doesn’t exist.
+
 ### Chapter 6
 
 > Nash Equilibrium
@@ -64,6 +67,20 @@ For every set of three nodes, if we consider the three edges connecting them, ei
 A strategy to make the sum of payoffs maximum. (Under most situations)
 
 It is actually a mutual-best option, which means no one can benefit from a single changing of strategy.
+
+### Chapter 12
+
+> Nash Bargaining Solution
+
+When A and B negotiate over splitting a dollar, with an outside option of x for A and an outside option of y for B (and x+y ≤ 1), the Nash bargaining outcome is:
+
+$A=\frac{1+x-y}{2},\ B=\frac{1+y-x}{2}.$
+
+> Unstable Outcome
+
+The sum of the two dots of an edge that not belongs to the outcome is less than **1**.
+
+![Unstable](../../../BUAA/Schoolwork/Social Computing/Unstable.png)
 
 ### Chapter 13
 
@@ -81,7 +98,7 @@ IN: nodes that can reach the giant SCC but cannot be reached from it — i.e., n
 
 OUT: nodes that can be reached from the giant SCC but cannot reach it — i.e., nodes are “downstream” of it.
 
-![SCC](SCC.jpg)
+![SCC](../../../BUAA/Schoolwork/Social Computing/SCC.jpg)
 
 > Tendrils
 
@@ -103,7 +120,7 @@ The “tendrils” of the bow-tie consist of:
 
 Divide down each authority score by the sum of all authority scores, and divide down each hub score by the sum of all hub scores. 
 
-![Hub-Authority](Hub-Authority.jpg)
+![Hub-Authority](../../../BUAA/Schoolwork/Social Computing/Hub-Authority.jpg)
 
 > Basic PageRank Update Rule
 
@@ -111,8 +128,15 @@ Each page divides its current PageRank equally across its out-going links, and p
 
 **Equilibrium**: The numbers should not change after updating.
 
+### Chapter 19
+
+> Diffusion of a New Behaviour
+
+A behavior B that everyone starts with, and a threshold q for switching to a new behavior A — that is, any node will switch to A if at least a q fraction of its neighbors have adopted A.
+
 ### Chapter 21
 
 > Epidemic Model
 
 Presuming there are two individuals: Person A $[a, b]$ and Person B $[c, d]$, the condition that disease on A can be acquired by B is that: $c \le b\ \and\ d\ge a\ \and d \ge c$.
+
