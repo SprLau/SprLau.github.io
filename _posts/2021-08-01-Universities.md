@@ -16,17 +16,11 @@ tags:
 
 #### Boston University  
 
-Master of Science in Electrical & Computer Engineering
+[Master of Science in Electrical & Computer Engineering](https://www.bu.edu/eng/programs/master-of-science-in-electrical-computer-engineering/)
 
-https://www.bu.edu/eng/programs/master-of-science-in-electrical-computer-engineering/
+[GENERAL MS IN CS DEGREE](https://www.bu.edu/cs/masters/program/cs/general-ms-in-cs/)
 
-GENERAL MS IN CS DEGREE
-
-https://www.bu.edu/cs/masters/program/cs/general-ms-in-cs/
-
-SPECIALIZATION IN DATA-CENTRIC COMPUTING
-
-https://www.bu.edu/cs/masters/program/cs/data-centric/
+[SPECIALIZATION IN DATA-CENTRIC COMPUTING](https://www.bu.edu/cs/masters/program/cs/data-centric/)
 
 #### Brown University
 
