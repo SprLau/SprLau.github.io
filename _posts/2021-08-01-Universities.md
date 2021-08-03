@@ -190,19 +190,49 @@ tags:
 
 #### Univ. of California - Davis
 
+[M.Sc. in Electrical and Computer Engineering](https://www.ucdavis.edu/graduate-programs/electrical-and-computer-engineering)
 
+[M.Sc. in Computer Science](https://www.ucdavis.edu/graduate-programs/computer-science)
 
 #### Univ. of California - Irvine
 
+[Master of Software Engineering](https://mswe.ics.uci.edu/)
 
+[M.S. Software Engineering](https://www.informatics.uci.edu/grad/ms-software-engineering/)
+
+[M.S. & Ph.D. in Statistics](https://www.stat.uci.edu/m-s-ph-d-in-statistics/)
+
+[M.S. in Electrical Engineering and Computer Science](https://engineering.uci.edu/dept/eecs/academics/graduate)
+
+[M.S. in Computer Science](https://www.ics.uci.edu/grad/degrees/degree_cs.php)
+
+[M.S. Informatics](https://www.informatics.uci.edu/grad/ms-informatics/)
+
+[Master of Computer Science (MCS)](https://mcs.ics.uci.edu/about/the-program/)
+
+[Master of Data Science (MDS)](https://mds.ics.uci.edu/)
+
+[Master of Human-Computer Interaction and Design](https://mhcid.ics.uci.edu/program/about-the-program/)
 
 #### Univ. of California - Los Angeles
 
+[Master of Science (M.S.) in ECE](https://www.ee.ucla.edu/m-s/)
 
+[M.Eng. in AI](https://www.meng.ucla.edu/artificial-intelligence-2/)
+
+[M.Eng. in DS](https://www.meng.ucla.edu/data-science/)
+
+[Master of Science (M.S.) in CS](https://www.cs.ucla.edu/graduate-admissions/)
 
 #### Univ. of California - San Diego
 
+[M.Sc. in COMPUTATIONAL SCIENCE, MATHEMATICS AND ENGINEERING](https://csme.ucsd.edu/csme-ms/index.html)
 
+[MASTER OF SCIENCE PROGRAMS IN COMPUTER SCIENCE AND ENGINEERING](https://cse.ucsd.edu/graduate/degree-programs/ms-program)
+
+[Master of Advanced Study (M.A.S) in Data Science & Engineering](https://jacobsschool.ucsd.edu/mas/dse)
+
+[Master's of Science in ECE](https://www.ece.ucsd.edu/index.php/graduate/ece-dept-university-academic-requirements)
 
 #### Univ. of California - Santa Barbara
 
@@ -232,18 +262,20 @@ tags:
 
 
 
-#### University of Southern California 
-
-
-#### University of Toronto   
+#### University of Southern California
 
 
 
-#### University of Washington  
+
+#### University of Toronto
 
 
 
-#### University of Waterloo  
+#### University of Washington
+
+
+
+#### University of Waterloo
 
 
 
