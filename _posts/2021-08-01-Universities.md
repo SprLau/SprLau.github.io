@@ -14,6 +14,8 @@ tags:
 
 # University List - Alphabetically
 
+> Last Update: ***Aug 3rd, 2021***
+
 #### Boston University  
 
 [Master of Science in Electrical & Computer Engineering](https://www.bu.edu/eng/programs/master-of-science-in-electrical-computer-engineering/)
@@ -236,52 +238,160 @@ tags:
 
 #### Univ. of California - Santa Barbara
 
+[Master of Science – Computer Science](https://my.sa.ucsb.edu/catalog/Current/CollegesDepartments/coe/compsci-engr.aspx?DeptTab=Graduate)
 
+[Master of Science—Media Arts and Technology](https://my.sa.ucsb.edu/catalog/Current/CollegesDepartments/ls-intro/MAT.aspx?DeptTab=Graduate)
+
+[Master of Science – Electrical and Computer Engineering](https://my.sa.ucsb.edu/catalog/Current/CollegesDepartments/coe/ece.aspx?DeptTab=Graduate)
 
 #### Univ. of Illinois at Urbana - Champaign
 
+[Master of Computer Science in Computer Science](http://catalog.illinois.edu/graduate/engineering/computer-science-mcs/)
 
+[Master of Science in Computer Science](http://catalog.illinois.edu/graduate/engineering/computer-science-ms/)
+
+[Master of Engineering in Electrical & Computer Engineering](http://catalog.illinois.edu/graduate/engineering/electrical-computer-engineering-meng/)
+
+[Master of Science in Electrical and Computer Engineering](http://catalog.illinois.edu/graduate/engineering/electrical-computer-engineering-ms/)
 
 #### University of Alberta
 
+[Master of Science in Computing Science](https://www.ualberta.ca/graduate-programs/computing-science.html)
 
+[MEng, MSc in Electrical and Computer Engineering](https://www.ualberta.ca/graduate-programs/electrical-and-computer-engineering.html)
 
 #### University of British Columbia
 
+[MASTER OF SCIENCE IN COMPUTER SCIENCE (MSC)](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-computer-science)
 
+[MASTER OF DATA SCIENCE (MDS)](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-data-science)
+
+[MASTER OF DATA SCIENCE IN COMPUTATIONAL LINGUISTICS (MDSCL)](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-data-science-computational-linguistics)
+
+[MASTER OF DIGITAL MEDIA](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-digital-media)
+
+[MASTER OF APPLIED SCIENCE IN ELECTRICAL AND COMPUTER ENGINEERING (MASC)](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-electrical-computer-engineering)
+
+[MASTER OF ENGINEERING IN ELECTRICAL AND COMPUTER ENGINEERING (MENG)](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-engineering-electrical-computer-engineering)
+
+[MASTER OF SCIENCE IN INTERDISCIPLINARY STUDIES (MSC)](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-interdisciplinary-studies)
 
 #### University of Michigan - Ann Arbor
 
+[Data Science Master's Program](https://lsa.umich.edu/stats/masters_students/mastersprograms/data-science-masters-program.html)
 
+[Master’s in CSE](https://cse.engin.umich.edu/academics/graduate/masters-in-cse/)
+
+[Master’s in Data Science](https://cse.engin.umich.edu/academics/graduate/masters-in-data-science/)
+
+[Master of Science in Electrical and Computer Engineering](https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/about-the-masters-program/)
+
+[Master of Engineering (MEng) in Electrical and Computer Engineering](https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/about-the-master-of-engineering-meng-program/)
 
 #### University of Montreal
 
-
+[M.Sc. in Computer Science](https://admission.umontreal.ca/programmes/maitrise-en-informatique/)
 
 #### University of Pennsylvania
 
+[Computer & Information Science, MSE](https://catalog.upenn.edu/graduate/programs/computer-information-science-mse/)
 
+[Computer & Information Technology, MCIT](https://catalog.upenn.edu/graduate/programs/computer-information-technology-mcit/)
+
+[Computer Graphics & Game Technology, MSE](https://catalog.upenn.edu/graduate/programs/computer-graphics-game-technology-mse/)
+
+[Data Science, MSE](https://catalog.upenn.edu/graduate/programs/data-science-mse/)
+
+[Electrical Engineering, MSE](https://catalog.upenn.edu/graduate/programs/electrical-engineering-mse/)
+
+[Scientific Computing, MSE](https://catalog.upenn.edu/graduate/programs/scientific-computing-mse/)
 
 #### University of Southern California
 
+[MS in Computer Science](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/)
 
+[MS degree in Computer Science (Artificial Intelligence)](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science-artificial-intelligence/)
+
+[MS in Computer Science - Computer Networks](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-cs-computer-networks/)
+
+[MS in Computer Science - Data Science](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-cs-data-science/)
+
+[MS in Computer Science - Game Development](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-cs-game-development/)
+
+[MS in Computer Science - High Performance Computing and Simulations](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-cs-computing-simulation/)
+
+[MS in Computer Science - Multimedia & Creative Technologies](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-cs-multimedia-creative-tech/)
+
+[MS in Computer Science - Software Engineering](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-cs-software-engineering/)
+
+[Master of Science in Applied Data Science](https://viterbigradadmission.usc.edu/programs/masters/msprograms/data-science/ms-applied-data-science/)
+
+[MS in Computer Engineering](https://viterbigradadmission.usc.edu/programs/masters/msprograms/electrical-computer-engineering/ms-computer-engineering/)
+
+[MS in Electrical Engineering](https://viterbigradadmission.usc.edu/programs/masters/msprograms/electrical-computer-engineering/ms-electrical-engineering/)
+
+[Master of Science in Electrical and Computer Engineering - Machine Learning and Data Science](https://viterbigradadmission.usc.edu/programs/masters/msprograms/electrical-computer-engineering/ms-in-electrical-and-computer-engineering-machine-learning-and-data-science/)
 
 
 #### University of Toronto
 
+[Master of Science in Applied Computing (MScAC)](https://www.sgs.utoronto.ca/programs/applied-computing/)
 
+[M.Sc. in Computer Science](https://www.sgs.utoronto.ca/programs/computer-science/)
+
+[Master of Applied Science (MASc), Master of Engineering (MEng) in Electrical and Computer Engineering](https://www.sgs.utoronto.ca/programs/electrical-and-computer-engineering/)
+
+[Master of Information (MI)](https://www.sgs.utoronto.ca/programs/information/)
 
 #### University of Washington
 
+[Master of Human-Computer Interaction and Design](https://mhcid.washington.edu/)
 
+[Master of Science in Human Centered Design & Engineering](https://www.hcde.washington.edu/ms)
+
+[Master of Science in Electrical & Computer Engineering](https://www.ece.uw.edu/academics/grad/)
+
+[Master of Science in Computer Science & Systems](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=769)
+
+[Master of Science in Computer Science & Software Engineering](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=702)
+
+[Master of Science in Data Science](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=751)
+
+[MS in Electrical & Computer Engineering](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=844)
+
+[Master of Science in Electrical Engineering](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=743)
+
+[MS in Electrical Engineering](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=35)
 
 #### University of Waterloo
 
+[Computer Science - MMath at Waterloo](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs/computer-science-mmath-waterloo)
 
+[Data Science - MMath at Waterloo](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs/data-science-mmath-waterloo)
+
+[Data Science and Artificial Intelligence - MDSAI at Waterloo](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs/data-science-and-artificial-intelligence-mdsai-waterloo)
+
+[Electrical and Computer Engineering - MASc at Waterloo](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs/electrical-and-computer-engineering-masc-waterloo)
+
+[Electrical and Computer Engineering - MASc (Nanotechnology) at Waterloo](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs/electrical-and-computer-engineering-masc-nanotechnology)
+
+[Electrical and Computer Engineering - MASc (Quantum Information) at Waterloo](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs/electrical-and-computer-engineering-masc-quantum-information)
+
+[Electrical and Computer Engineering - MEng at Waterloo](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs/electrical-and-computer-engineering-meng-waterloo)
 
 #### University of Wisconsin - Madison  
 
+[Master of Science in Design + Innovation](https://pdc.wisc.edu/degrees/design-innovation/?utm_source=campus_partner&utm_medium=referral&utm_campaign=ms_design_innovation&utm_content=coe_website)
 
+[M.Sc. in Electrical & Computer Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/academics/)
 
-#### Yale University  
+[Master of Science in Computer Sciences](https://www.cs.wisc.edu/graduate/ms-and-phd-program/ms-requirements/)
+
+#### Yale University
+
+[M.S, M.Phill in Computer Science](http://catalog.yale.edu/gsas/degree-granting-departments-programs/computer-science/)
+
+[M.S, M.Phill in Electrical Engineering](http://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-engineering/)
+
+[M.S., M.Phill in Engineering & Applied Science](http://catalog.yale.edu/gsas/degree-granting-departments-programs/engineering-applied-science/)
 
