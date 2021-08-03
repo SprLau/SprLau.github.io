@@ -14,7 +14,7 @@ tags:
 
 # University List - Alphabetically
 
-> Last Update: ***Aug 3rd, 2021***
+> Last Update: ***Aug 3rd, 2021***.
 
 #### Boston University  
 
