@@ -5,7 +5,6 @@ My favorite quote, <span id="k">"Keep on exploring and defining beauty."</span> 
 
 Hi there! I am Zhaoxun, you can also call me Springs. I'm a CS major undergraduate student at <a href ="https://scse.buaa.edu.cn/">Beihang University, also known as BUAA</a>. My research interests include: 
 
-
 <a href ="https://en.wikipedia.org/wiki/Visual_computing">Visual Computing (VISION & GRAPHICS)</a>: 
 a concentration for all computer science disciplines dealing with images and 3D models, such as computer graphics, image processing, visualization, computer vision, virtual and augmented reality and video processing.
 
