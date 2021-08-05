@@ -1,9 +1,9 @@
-<span id="a">zhaoxun@liu</span>:<span id="b">~</span><span id="c">$</span> cd ZhaoxunLiu/<!-- kjsdfhkjdhsfkjdshfkj -->About_Zhaoxun
-<span id="a">zhaoxun@liu</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->zhaoxunliu.txt<br/><br/>
+<span id="a">zhaoxun_liu@buaa</span>:<span id="b">~</span><span id="c">$</span> cd zhaoxun_springs_liu/<!-- kjsdfhkjdhsfkjdshfkj -->about
+<span id="a">zhaoxun_liu@buaa</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->README.txt<br/><br/>
 My favorite quote, <span id="k">"Keep on exploring and defining beauty."</span> <!-- sjkfhskjf -->
 
 
-Hi there! I am Zhaoxun, you can also call me Springs. I'm a CS major undergraduate student at <a href ="https://scse.buaa.edu.cn/">Beihang University, also known as BUAA</a>. My research interests include: 
+Hi there! I'm Zhaoxun Liu, you can also call me Springs. I'm an undergraduate student at <a href ="https://buaa.edu.cn/">Beihang University, also known as BUAA</a>, majoring in <a href ="https://scse.buaa.edu.cn/">Computer Science</a>. My research interests mainly are: 
 
 <a href ="https://en.wikipedia.org/wiki/Visual_computing">Visual Computing (VISION & GRAPHICS)</a>: 
 a concentration for all computer science disciplines dealing with images and 3D models, such as computer graphics, image processing, visualization, computer vision, virtual and augmented reality and video processing.
@@ -22,4 +22,4 @@ I'm always open to collaborations on pure-cs or interdisciplinary research topic
 
 Cheers!
 
-<span id="a">zhaoxun@liu</span>:<span id="b">~</span><span id="c">$</span> exit
+<span id="a">zhaoxun_liu@buaa</span>:<span id="b">~</span><span id="c">$</span> exit
