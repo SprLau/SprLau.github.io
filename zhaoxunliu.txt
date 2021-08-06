@@ -14,7 +14,7 @@ a magic to bring human beings and computing machines together in a harmonious wa
 
 I have been pondering how machines can break out of their computational boundaries to understand human intelligence. My goal is to develop computationally efficient deep learning models and algorithms, building the computational foundations to enable computers with the abilities to analyze, recognize and predict subtle human communicative behaviors during social interactions.
 
-Wanna see some of my <a href="https://github.com/SprLau">projects</a>? And my <a href="resume.pdf">resume</a>?
+Wanna see some of my <a href="https://github.com/SprLau">projects on Github</a>? And my <a href="zhaoxun_liu_resume.pdf">resume</a>?
 
 
 I'm always open to collaborations on pure-cs or interdisciplinary research topics, feel free to <a href="mailto: lau@buaa.edu.cn">contact me through e-mail</a>!
