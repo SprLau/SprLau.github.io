@@ -17,7 +17,7 @@ I have been pondering how machines can break out of their computational boundari
 Wanna see some of my <a href="https://github.com/SprLau">projects on Github</a>? And my <a href="zhaoxun_liu_resume.pdf">resume</a>?
 
 
-I'm always open to collaborations on pure-cs or interdisciplinary research topics, feel free to <a href="mailto: lau@buaa.edu.cn">contact me through e-mail</a>!
+I'm always open to collaborations on pure-CS or interdisciplinary research topics, feel free to <a href="mailto: lau@buaa.edu.cn">contact me through e-mail</a>!
 
 
 Cheers!
